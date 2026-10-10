@@ -18,8 +18,8 @@ O projeto está organizado em duas etapas:
 
 **Parte 2**
 
-* `PARTE 2/[ERICK_MACHADO_WORKFLOW_PARTE_2].ipynb` - notebook final da Parte 2.
-* `PARTE 2/[ERICK_MACHADO_WORKFLOW_PARTE_2].pdf` - versão final para apresentação e leitura.
+* `PARTE 2/[ERICK_MACHADO_WORKFLOW_PARTE_2].ipynb` - notebook final da Parte 2. (AINDA EM DESENVOLVIMENTO)
+* `PARTE 2/[ERICK_MACHADO_WORKFLOW_PARTE_2].pdf` - versão final para apresentação e leitura. (AINDA EM DESENVOLVIMENTO)
 
 ## Linguagens e bibliotecas utilizadas
 
